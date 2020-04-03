@@ -56,3 +56,7 @@ while number1 > 0:
 
 
 # 3.13 infinit loops
+command = ''
+while command.lower() != 'quit':
+    command = input('> ')
+    print("ECHO", command)
