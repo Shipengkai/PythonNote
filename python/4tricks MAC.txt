@@ -1,0 +1,4 @@
+fn + ↑/↓/←/→
+alt + ↑/↓
+comment: command + slash
+F2  #rename
