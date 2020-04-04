@@ -1,5 +1,5 @@
 
-# Section A
+# Section A     function (parameters & arguments)
 
 """
 The difference between parameters and arguments.
@@ -14,7 +14,7 @@ def greet(name):
 
 print(greet('spk'))
 
-# Section B
+# Section B     two types of function
 
 # 1- Perform a task. Return None.
 # 2- Return a value
@@ -29,7 +29,7 @@ file = open("4content.txt", "w")
 file.write(message)
 
 
-# Section C
+# Section C     tricks
 
 # Default arguments
 def increment(number, by=1):

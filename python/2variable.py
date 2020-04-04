@@ -1,4 +1,4 @@
-# built in primitive types in python:numbers, booleans, strings.
+# Section A --built in primitive types in python:numbers, booleans, strings.
 """
 student_count = 1000
 rating = 4.99
@@ -6,13 +6,15 @@ is_published = False
 course_name = "python programming"
 #four things
 """
+# --beautiful code
 # 1 all my variable names are descriptive and meaningful
 # 2 use lower case letters to name my variables
 # 3 use an underscore to separate multiple words
 # 4 put a space around the equals sign
 
 
-# string:
+# Section B --string:
+
 course_name = "Python Programming"
 # len()
 print(len(course_name))

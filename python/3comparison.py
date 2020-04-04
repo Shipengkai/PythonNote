@@ -1,12 +1,12 @@
-# comparison
+# --comparison about character
 print(ord('a'))
 # ...
 print('b' > 'a' and 'b' > 'B')
 # ...
 
 
-# if
-# __init__
+# --if
+# basic
 temperature = 35
 if temperature > 30:
     print("It's warm.")
@@ -28,7 +28,7 @@ message = 'Eligible' if age >= 18 else 'Not eligible'
 print(message)
 
 
-# for
+# --for
 successful = True
 i = 0
 for number in range(1, 10, 2):
@@ -48,7 +48,7 @@ for x in ((1, 2), (2, 3)):
     print(x)
 
 
-# while
+# --while
 number1 = 100
 while number1 > 0:
     print(number1)

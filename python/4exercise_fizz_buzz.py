@@ -1,3 +1,4 @@
+# this is an exercise
 def fizz_buzz(input):
     fizz = not bool(input % 3)
     buzz = not bool(input % 5)
