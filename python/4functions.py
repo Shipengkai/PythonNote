@@ -39,7 +39,7 @@ def increment(number, by=1):
 print(increment(2, 2), increment(2))
 
 
-# xargs
+# xargs         numbers is a list
 def multiply(*numbers):
     multiply = 1
     for number in numbers:
