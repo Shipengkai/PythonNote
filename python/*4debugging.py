@@ -1,9 +1,9 @@
 # debugging
 def multiply(*numbers):
     multiply = 1
-    for number in numbers:
+    for number in numbers:    # numbers is a tuple      AAAAAAAAAAAAAAA
         multiply *= number
-        return multiply
+    return multiply
 
 
 print('start')

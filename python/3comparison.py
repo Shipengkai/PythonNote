@@ -1,5 +1,5 @@
 # --comparison about character
-print(ord('a'))
+print(ord('a'))                                 # AAAAAAAAAAAAAAAA
 # ...
 print('b' > 'a' and 'b' > 'B')
 # ...

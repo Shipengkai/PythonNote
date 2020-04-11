@@ -1,4 +1,4 @@
-# Section A --built in primitive types in python:numbers, booleans, strings.
+# Section A --built in primitive types in python:numbers, booleans, strings.  三种基础内建类型
 """
 student_count = 1000
 rating = 4.99
@@ -47,8 +47,8 @@ course = "python  py   "
 print(course.upper())  # return a new string
 print(course.lower())
 print(course.title())
-print(course.strip())  # remove white space l/r
+print(course.strip())  # remove white space l/r    AAAAAAAAAAAAAAAAAAA
 print(course.find('pyt'))
-print(course.replace("p", "j"))
+print(course.replace("p", "j"))                  # AAAAAAAAAAAAAAAAAAA
 print('pro' in course)
 print('teriri' not in course)
