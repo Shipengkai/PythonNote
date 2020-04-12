@@ -32,12 +32,17 @@ def list_unpacking():
 # loop lists
 def loop_lists():
     letters = ['a', 'b', 'c']
+    print(list(enumerate(letters)), type(enumerate(letters)))
     for index, letter in enumerate(letters):
         print(index, letter)
-# enumerate():return a tuple, read only
 
+
+# enumerate():return a tuple, read only
+loop_lists()
 
 # add and remove
+
+
 def add_remove():
     letters = ['a', 'b', 'c']
     # add
